@@ -1,4 +1,4 @@
-// JavaScript Document
+//Basic Javascript file for giving instructions to variables.
 //Create variables for the welcome message
 var greeting = 'Howdy ';
 var name = 'Molly';
